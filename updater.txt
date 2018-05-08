@@ -1,3 +1,1 @@
-<Version: 1.01>
-/data/Map003.json http://download1585.mediafire.com/zif2af1653xg/0d2i3oz21z8ga9r/Map003.json
-<End of Version>
+
