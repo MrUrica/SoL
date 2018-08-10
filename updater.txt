@@ -1,4 +1,4 @@
-<Version 1.02>
+<Version 1.10>
 /audio/se/Thunder2.ogg https://storyoflife.fr/_files/200000076-d91c9da15a/Thunder2.ogg
 <End of Version>
 
