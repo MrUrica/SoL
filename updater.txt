@@ -1,3 +1,8 @@
+
+<Version: 1.01>
+/audio/se/Thunder2.ogg https://storyoflife.fr/_files/200000076-d91c9da15a/Thunder2.ogg
+<End of Version>
+
 <Version 1.02>
 /img/system/gcommand_0.png https://github.com/MrUrica/SoL/raw/master/gcommand_0.png
 /img/system/gcommand_0B.png https://github.com/MrUrica/SoL/raw/master/gcommand_0B.png
@@ -5,10 +10,5 @@
 /img/system/gcommand_1B.png https://github.com/MrUrica/SoL/raw/master/gcommand_1B.png
 /img/system/gcommand_2.png https://github.com/MrUrica/SoL/raw/master/gcommand_2.png
 /img/system/gcommand_2B.png https://github.com/MrUrica/SoL/raw/master/gcommand_2B.png
-/audio/se/Thunder2.ogg https://storyoflife.fr/_files/200000076-d91c9da15a/Thunder2.ogg
-<End of Version>
-
-
-<Version: 1.01>
 /audio/se/Thunder2.ogg https://storyoflife.fr/_files/200000076-d91c9da15a/Thunder2.ogg
 <End of Version>
