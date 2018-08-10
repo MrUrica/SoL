@@ -1,4 +1,3 @@
-
 <Version: 1.01>
 /audio/se/Thunder2.ogg http://download1640.mediafire.com/xrjaqd4133og/359vizba9aetr9h/Thunder2.ogg
 /audio/se/Thunder2.m4a http://download1483.mediafire.com/xs7rczbrr3yg/cairl5p1e3u5ytl/Thunder2.m4a
