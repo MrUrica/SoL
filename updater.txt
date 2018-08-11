@@ -1,5 +1,5 @@
 <Version: 1.02>
-/audio/se/Thunder2.ogg https://storyoflife.fr/_files/200000076-d91c9da15a/Thunder2.ogg
+/js/plugins.js https://raw.githubusercontent.com/MrUrica/SoL/master/plugins.js
 <End of Version>
 
 <Version: 1.01>
