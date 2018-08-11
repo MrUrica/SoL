@@ -1,3 +1,9 @@
 <Version: 1.01>
 /audio/se/Thunder2.ogg https://storyoflife.fr/_files/200000076-d91c9da15a/Thunder2.ogg
+/img/system/gcommand_0.png https://raw.githubusercontent.com/MrUrica/SoL/master/gcommand_0.png
+/img/system/gcommand_0B.png https://raw.githubusercontent.com/MrUrica/SoL/master/gcommand_0B.png
+/img/system/gcommand_1.png https://raw.githubusercontent.com/MrUrica/SoL/master/gcommand_1.png
+/img/system/gcommand_1B.png https://raw.githubusercontent.com/MrUrica/SoL/master/gcommand_1B.png
+/img/system/gcommand_2.png https://raw.githubusercontent.com/MrUrica/SoL/master/gcommand_2.png
+/img/system/gcommand_2B.png https://raw.githubusercontent.com/MrUrica/SoL/master/gcommand_2B.png
 <End of Version>
