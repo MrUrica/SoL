@@ -1,3 +1,13 @@
+<Version: 1.02>
+/data/Enemies.json https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-02/Enemies.json
+/data/Troops.json https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-02/Troops.json
+/data/Map028.json https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-02/Map028.json
+/data/Map029.json https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-02/Map029.json
+/data/Map030.json https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-02/Map030.json
+/data/Map031.json https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-02/Map031.json
+/data/Map032.json https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-02/Map032.json
+<End of Version>
+
 <Version: 1.01>
 /audio/se/Thunder2.ogg https://storyoflife.fr/_files/200000076-d91c9da15a/Thunder2.ogg
 /img/system/gcommand_0.png https://raw.githubusercontent.com/MrUrica/SoL/master/gcommand_0.png
