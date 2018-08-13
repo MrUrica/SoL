@@ -1,3 +1,8 @@
+<Version: 1.03>
+/js/plugins/SRD_GameOverCore.js https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-03/SRD_GameOverCore.js
+/js/plugins.js https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-03/plugins.js
+<End of Version>
+
 <Version: 1.02>
 /data/Enemies.json https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-02/Enemies.json
 /data/Troops.json https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-02/Troops.json
