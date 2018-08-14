@@ -1,4 +1,4 @@
-<Version: 1.03.1>
+<Version: 1.031>
 /data/Enemies.json https://raw.githubusercontent.com/MrUrica/SoL/MrUrica-version-1-02/Enemies.json
 <End of Version>
 
